@@ -4,7 +4,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #3f5efb, #fc466b);
+    background: linear-gradient(to right, #238dcb, #b87028);
     font-family: 'Courier New', Courier, monospace;
     color: var(--clr-neon);
 }
@@ -23,7 +23,7 @@ h1 {
 }
 
 .dice-area{
-    margin: 20px;
+    margin: 20px 210px;
     text-align: center;
     display: inline-block;
 }
