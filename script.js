@@ -3,7 +3,7 @@ firstimage = 'assets/dice' + first + '.png';
 document.querySelectorAll('img')[0].setAttribute('src', firstimage);
 
 second = Math.floor(Math.random()*6) + 1
-secondimage = 'assets/dice' + first + '.png';
+secondimage = 'assets/dice' + second + '.png';
 document.querySelectorAll('img')[1].setAttribute('src', secondimage);
 
 if(first > second)
